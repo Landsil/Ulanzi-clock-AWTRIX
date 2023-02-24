@@ -32,7 +32,7 @@ This is all done on your PI via SSH
 2. Get IP via `hostname -I` if you haven't already.
 3. Try to access interface via `http://awtrix_ip:7000`
    1. You may want to add password right away at `http://awtrix_ip:7000/pages/hostsettings.html`
-4. If that works setup up something (add info here)
+4. If that works setup up something from the store
 
 Move to the next step
 
@@ -54,4 +54,4 @@ network={
     psk="wifi password"
     }
 ```
-3. Exit with  `CTRL + X` and then chose `Y` to save.
+3. Exit with  `CTRL + X` and then chose `Y`, `Enter`
