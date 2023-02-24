@@ -32,7 +32,6 @@ This is all done on your PI via SSH
 2. Get IP via `hostname -I` if you haven't already.
 3. Try to access interface via `http://awtrix_ip:7000`
    1. You may want to add password right away at `http://awtrix_ip:7000/pages/hostsettings.html`
-4. If that works setup up something from the store
 
 Move to the next step
 
@@ -40,9 +39,8 @@ Move to the next step
 Assuming you've read manual for the clock and it's connected to your network.
 1. Go to `http://clock.local` to get the local interface (yes, http ;( )
 2. Move to 2nd page "Common Settings" and expand "Awtrix Simulator" option
-3. Put your Pi's static IP and `7000`, click save.
-4. Works?
-
+3. Put your Pi's static IP and `7001`, click save. (yes, `7001`, not `7000`)
+4. This should now work
 
 
 ## Bonus - add 2nd WiFi via SSH
