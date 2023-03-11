@@ -1,9 +1,6 @@
 # Ulanzi-clock-AWTRIX
 Those are my config notes for setting up Ulanzi LED clock with AWTRIX host on Raspberry PI
 
-If this page is mostly empty then congratulations, you are waaaay to early. Please come back in a day of two.
-
-
 ## Links
 1. [Ulanzi Smart Pixel Clock](https://www.ulanzi.com/products/ulanzi-pixel-smart-clock-2882)
 2. [AWTRIX docs](https://awtrixdocs.blueforcer.de/#/en-en/host?id=quickstart)
